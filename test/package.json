@@ -1,0 +1,8 @@
+﻿{
+    "private":  true,
+    "name":  "startup-auditor-test",
+    "dependencies":  {
+                         "@modelcontextprotocol/client":  "2.2.0"
+                     },
+    "type":  "module"
+}
